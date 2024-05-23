@@ -16,7 +16,7 @@ public class Driver {
 		
 		System.out.println("Current count:" + counter.getCount());
 		
-		counter.multiplyBy(6);
+		counter.multiplyBy(6); //test
 		
 		System.out.println("Current count:" + counter.getCount());	
 	}
